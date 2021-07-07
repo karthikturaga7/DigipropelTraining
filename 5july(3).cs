@@ -39,7 +39,7 @@ public class PhotoBookTest
 }
       
 
-Expected Output:
+/*Expected Output:
 16
 24
-64  
+64 */  
