@@ -37,3 +37,6 @@ class ReadFriendRecords
         Console.ReadLine();
     }
 }
+    **Expected Output
+        Enter Friend's Birth Month >>present
+        
